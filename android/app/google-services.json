@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "676146337569",
+    "project_id": "amyaistorenew",
+    "storage_bucket": "amyaistorenew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676146337569:android:328c14a3159d522ad11060",
+        "android_client_info": {
+          "package_name": "com.amyaistore.store.amyai_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676146337569-vaiu41bjl86598jfb3n9ec4004n2u6i8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsXygJe8_CZII5otwzCSfqhZQ3i5Vqovg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676146337569-vaiu41bjl86598jfb3n9ec4004n2u6i8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
